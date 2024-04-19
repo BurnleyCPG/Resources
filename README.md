@@ -12,6 +12,9 @@ https://bennywag.github.io/forest-ecology-R-book/index.html
 Introduction to R - Datacamp
 https://www.datacamp.com/courses/free-introduction-to-r
 
+Learn R - Codecademy
+https://www.codecademy.com/learn/learn-r
+
 
 # Git & GitHub 
 https://happygitwithr.com/
