@@ -19,3 +19,6 @@ https://www.codecademy.com/learn/learn-r
 # Git & GitHub 
 https://happygitwithr.com/
 https://learngitbranching.js.org/
+
+Check out our GitHub repo, which was put togother by Tom Wilkins:
+https://github.com/BurnleyCPG/GitHub-intro
