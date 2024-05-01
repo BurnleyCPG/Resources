@@ -7,6 +7,7 @@ Here we will find material to self-study and material we have covered
 ## Intro to R for Forest Ecosystem Science
 _Anu Singh, Benjamin Wagner, and Kaitlyn Hammond_
 https://bennywag.github.io/forest-ecology-R-book/index.html
+Find koala.csv in the Resources folder
 
 ## Self-paced course
 Introduction to R - Datacamp
