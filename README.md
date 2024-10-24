@@ -23,3 +23,7 @@ https://learngitbranching.js.org/
 
 Check out our GitHub repo, which was put togother by Tom Wilkins:
 https://github.com/BurnleyCPG/GitHub-intro
+
+# R Packages
+https://github.com/ClaudHGE/BCPG.R.packages
+Download the R_fn-pkgs_ppt.pptx file
